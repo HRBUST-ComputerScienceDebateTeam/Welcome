@@ -2,7 +2,9 @@
 
 留言板: 新加入的同学试着提交pr在上面签到吧~
 
-> 要记得是Pull Request 正好来练练手 
+> 要记得是Pull Request 正好来练练手
+>
+> Pull Request 方法在Notice文件夹下有介绍
 
 ---
 
